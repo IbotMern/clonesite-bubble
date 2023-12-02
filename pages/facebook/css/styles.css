@@ -253,7 +253,7 @@ a:hover{
 .m-footer{
     display: none;
 }
-@media screen and (max-width: 760px) {
+@media only screen and (max-width: 760px) and (min-width: 0px) {
 
     main{
         height: 100%;
